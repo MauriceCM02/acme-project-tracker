@@ -2,9 +2,9 @@
 
 Throughline gives ACME one place to see where every project stands: milestones and the dependencies between them, who is booked on what, budget spent against plan, and what needs attention next.
 
-**Live app:** https://d2b668bdid50ni.cloudfront.net
+**Live app:** 
 
-Built by Javier Benitez for the Citi coding workshop (full stack track).
+Built by Maurice Major 
 
 ## Try it
 
